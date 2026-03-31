@@ -46,8 +46,9 @@ qr-code-generator/
 
 📸 Preview
 
-"Preview" (ss1.png)
-"Preview" (ss2.png)
+![Preview](ss1.png)
+<br>
+![Preview](ss2.png)
 
 ---
 
@@ -61,7 +62,9 @@ qr-code-generator/
 
 🌐 Live Demo
 
-👉🏻 https://your-username.github.io/qr-code-generator/
+👉🏻 https://suraj-charan-dev.github.io/qr-code-generator/
+
+
 
 ---
 
