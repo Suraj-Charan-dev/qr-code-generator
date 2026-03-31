@@ -37,10 +37,10 @@ qr-code-generator/
 
 ⚙️ How It Works
 
-1️⃣ User enters text or URL
-2️⃣ Clicks on the "Generate QR Code" button
-3️⃣ The app processes the input
-4️⃣ Displays the generated QR code instantly
+- 1️⃣ User enters text or URL
+- 2️⃣ Clicks on the "Generate QR Code" button
+- 3️⃣ The app processes the input
+- 4️⃣ Displays the generated QR code instantly
 
 ---
 
